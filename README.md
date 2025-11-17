@@ -28,7 +28,7 @@ The dashboard answers key questions like:
 ## 📸 Dashboard Preview
 
 
-![Online Shopping Dashboard]([Excell-Dashboard.png](https://github.com/Muhammedthwaha/-Online-Shopping-Store-Annual-Sales-Analysis-Excel-Dashboard-/blob/main/Excell%20Dashboard.png))
+![Online Shopping Dashboard](https://github.com/Muhammedthwaha/-Online-Shopping-Store-Annual-Sales-Analysis-Excel-Dashboard-/blob/main/Excell%20Dashboard.png)
 
 
 ---
