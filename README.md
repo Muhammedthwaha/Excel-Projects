@@ -5,6 +5,7 @@
 Welcome to my **Excel Projects Repository**, a collection of real-world **Data Analytics and Data Science projects** built using **Microsoft Excel**.
 This repository is designed to showcase my skills in **data cleaning, analysis, visualization, dashboard creation, and business insights generation** — all using Excel.
 
+![Name](image.png)
 Whether you're a recruiter, data enthusiast, or learner, this repo highlights how Excel can be used to solve business problems through clear analytics and interactive dashboards.
 
 ---
